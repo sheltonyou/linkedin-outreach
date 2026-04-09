@@ -1,0 +1,23 @@
+{
+  "skill_name": "linkedin-outreach",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "I want to add this recruiter on LinkedIn: her name is Aleksandra Culic, she works at Randstad Digital in Melbourne. I've already applied for a Senior BA role there — it's a 6-month contract, digital transformation project for a large telco. Haven't heard back yet. Help me write the connection request.",
+      "expected_output": "2-3 short connection request message options (under 300 chars each), role-triggered framing, references the Randstad/BA/telco context, no 'please keep me in mind', short sentences, 'Best, Shelton' sign-off",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "I want to connect with this person on LinkedIn — his name is Matt Beck, he's the Founding Director at weave. Recruitment in Melbourne. I don't have a specific role in mind, I just see he specialises in placing BAs and project managers at tech companies. Write me a message.",
+      "expected_output": "2-3 exploratory connection request options (under 300 chars each), at least one references his specific focus (BA/PM placement, tech companies), avoids generic 'I came across your profile' with no follow-up, low-friction ask, 'Best, Shelton' sign-off",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "A recruiter named Davis Simanu accepted my LinkedIn connection request. I originally added him because I saw he posted Lead BA and Senior BA roles in Melbourne — he's at a staffing agency. He accepted my request but didn't reply to my message. It's been 2 days. What should I say now?",
+      "expected_output": "A follow-up message (50-100 words) that references the original context (Lead/Senior BA roles), warm but brief, doesn't re-pitch from scratch, ends with low-friction ask ('happy to share my CV' or similar), no generic openings, 'Best, Shelton' sign-off",
+      "files": []
+    }
+  ]
+}
