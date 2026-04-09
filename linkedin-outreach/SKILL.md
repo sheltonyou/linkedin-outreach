@@ -68,7 +68,7 @@ Ask the user which applies if they haven't said.
 **Formula:** mention you applied + brief role context + connect ask
 
 **Good examples:**
-> Hi Aleksandra, I recently applied for the Senior BA role at Randstad Digital and wanted to connect here as well. Regards, Shelton
+> Hi Sarah, I recently applied for the Senior BA role at Randstad Digital and wanted to connect here as well. Regards, Shelton
 
 > Hi [Name], I applied for the Senior BA contract on the telco digital transformation project and wanted to reach out here as well. Would be great to connect. Regards, Shelton
 
@@ -95,7 +95,7 @@ The simplest version is often the best. Simple reads as confident. Over-explaine
 **Formula:** who you are + why them specifically + light ask
 
 **Good examples:**
-> Hi Matt, I'm a Melbourne-based BA and noticed you recruit across BA and project delivery roles in tech. That's closely aligned with the kind of work I'm targeting, so I wanted to connect. Best, Shelton
+> Hi James, I'm a Melbourne-based BA and noticed you recruit across BA and project delivery roles in tech. That's closely aligned with the kind of work I'm targeting, so I wanted to connect. Best, Shelton
 
 > Hi [Name], I'm a BA in Melbourne currently exploring new opportunities and noticed you specialise in [their focus]. Keen to connect. Best, Shelton
 
@@ -126,7 +126,7 @@ These moves are not wrong — they're just too early. Save them for after they e
 **Formula:** thanks for connecting + original context + "great to be connected" (or similar)
 
 **Good examples:**
-> Hi Davis, thanks for connecting. I originally reached out after seeing your Lead BA and Senior BA posts in Melbourne. I'm currently exploring BA opportunities, so it's great to be connected. Best, Shelton
+> Hi David, thanks for connecting. I originally reached out after seeing your Lead BA and Senior BA posts in Melbourne. I'm currently exploring BA opportunities, so it's great to be connected. Best, Shelton
 
 > Hi [Name], thanks for connecting. I reached out after seeing your BA roles in Melbourne — I'm currently open to new opportunities in that space. Great to connect. Best, Shelton
 
